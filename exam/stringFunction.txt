@@ -1,0 +1,5 @@
+string explode 
+
+explode function break string into an array.
+example:$example = "This is string";
+	$ans = explode(",",$example);

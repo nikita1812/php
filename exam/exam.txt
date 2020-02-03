@@ -1,0 +1,6 @@
+arry_combine function create a array using element of one  key array & value array .
+
+example : $example1 = array('abc','xyz');
+	  $example2 = array('35','20');
+	  
+    	  $ans = array_combine($example1,$example2);
